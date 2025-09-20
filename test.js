@@ -1,3 +1,1 @@
-console.log('Hello')
-console.log('Hello')
-console.log('Hello')
+console.log('1234')
